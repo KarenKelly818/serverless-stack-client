@@ -1,5 +1,6 @@
 export default {
   MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51HFNZIG1ZlDa59pKukECez4bza0S4Ftx0lJG048VhQsB4dFrnDlORGD1SKvVvSmzGzouWcQl55C9f3CqmTg7a5La00rX2cGbWz",
   s3: {
     REGION: "us-east-2",
     BUCKET: "notes-app-karen-kelly"
