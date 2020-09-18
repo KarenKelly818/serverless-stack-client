@@ -11,7 +11,7 @@ const dev = {
   cognito: {
     REGION: "us-east-2",
     USER_POOL_ID: "us-east-2_2EKfA58DZ",
-    APP_CLIENT_ID: "YOUR_DEV_CO5p00k6h1kk2tnk2ucleleepq5hGNITO_APP_CLIENT_ID",
+    APP_CLIENT_ID: "5p00k6h1kk2tnk2ucleleepq5h",
     IDENTITY_POOL_ID: "us-east-2:2a5bedb3-4e4f-4796-be0d-b42df5acbd4d"
   }
 };
